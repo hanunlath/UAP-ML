@@ -35,3 +35,5 @@ https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis?selec
 ![Screenshot 2024-12-26 073841](https://github.com/user-attachments/assets/94989342-ae95-4a51-9a53-2a7209c8db77)
 ![Screenshot 2024-12-26 072555](https://github.com/user-attachments/assets/9cf5abe1-d879-4733-a02b-d006df0f4516)
 ![download (39)](https://github.com/user-attachments/assets/793a5589-4a51-4c91-b5a2-dcf14aa470df)
+
+Link model : https://drive.google.com/drive/folders/1DRFGbEgJyESXBZ5I0vt0v4LQ9NH4K_Ny?usp=sharing
